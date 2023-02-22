@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>AIR</title>
-    <url>/2023/02/22/AIR/</url>
-    <content><![CDATA[<p>This is a test </p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>CLANNAD~AfterStory~</title>
+      <link href="/2023/02/22/CLANNAD-AfterStory/"/>
+      <url>/2023/02/22/CLANNAD-AfterStory/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
       <categories>
-        <category>京都アニメーション</category>
+          
+          <category> 京都アニメーション </category>
+          
       </categories>
-      <tags>
-        <tag>京阿尼</tag>
-        <tag>催泪</tag>
-        <tag>Key社</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CLANNAD~AfterStory~</title>
-    <url>/2023/02/22/CLANNAD-AfterStory/</url>
-    <content><![CDATA[]]></content>
+      
+      
+        <tags>
+            
+            <tag> 京阿尼 </tag>
+            
+            <tag> 催泪 </tag>
+            
+            <tag> Key社 </tag>
+            
+            <tag> 神作 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AIR</title>
+      <link href="/2023/02/22/AIR/"/>
+      <url>/2023/02/22/AIR/</url>
+      
+        <content type="html"><![CDATA[<p>This is a test </p>]]></content>
+      
+      
       <categories>
-        <category>京都アニメーション</category>
+          
+          <category> 京都アニメーション </category>
+          
       </categories>
-      <tags>
-        <tag>京阿尼</tag>
-        <tag>催泪</tag>
-        <tag>Key社</tag>
-        <tag>神作</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 京阿尼 </tag>
+            
+            <tag> 催泪 </tag>
+            
+            <tag> Key社 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
