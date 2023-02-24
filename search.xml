@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>CLANNAD~AfterStory~</title>
-    <url>/2023/02/22/CLANNAD-AfterStory/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>京都アニメーション</category>
-      </categories>
-      <tags>
-        <tag>京阿尼</tag>
-        <tag>催泪</tag>
-        <tag>Key社</tag>
-        <tag>神作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>AIR</title>
     <url>/2023/02/22/AIR/</url>
     <content><![CDATA[<!-- <span id="more"></span>  -->
 
+<p><font size="3" color="#5F90A6">已经忘了从何时开始<br>由上代讲给下代，代代传下来的故事<br>一个关于长久的旅程的故事……</font></p>
 <table cellspacing="10">
     <tr>
         <td rowspan="5" width="150"><img src="/imax/6ce4e85797b511f9c77734af7360bda53719df7d.jpg" width="220"></td>
@@ -27,7 +14,7 @@
     </tr>
     <tr>
         <td>Episode: TV<font color="dc143c">12</font>+<font color="dc143c"></font>1</font>+EX<font color="dc143c">2</font></td>
-<td>动画制作: <font color="5F90A6">京都アニメーション</font></td>
+<td>动画制作: <font color="#5F90A6">京都アニメーション</font></td>
     </tr>
     <tr>
         <td>Raw: ANK</td>
@@ -42,7 +29,7 @@
         <td>人设: 樋上いたる、荒谷朋恵</td>
     </tr>
 </table>
-<font size="3" color="969696">ec442ccdb5809b04f3357e78991f82ed89a042ec</font>
+<font size="3" color="#CCCCCC">ec442ccdb5809b04f3357e78991f82ed89a042ec</font>
 
 
 
@@ -53,9 +40,71 @@
         <category>京都アニメーション</category>
       </categories>
       <tags>
+        <tag>游戏改</tag>
         <tag>京阿尼</tag>
         <tag>催泪</tag>
         <tag>Key社</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CLANNAD~AfterStory~</title>
+    <url>/2023/02/22/CLANNAD-AfterStory/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>京都アニメーション</category>
+      </categories>
+      <tags>
+        <tag>京阿尼</tag>
+        <tag>催泪</tag>
+        <tag>Key社</tag>
+        <tag>神作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>悠久之翼 ef - a tale of memories &lt;font color=&quot;red&quot;&gt;&amp;&lt;/font&gt; ef - a tale of melodies</title>
+    <url>/2023/02/24/%E6%82%A0%E4%B9%85%E4%B9%8B%E7%BF%BCBDBOX/</url>
+    <content><![CDATA[<!-- <span id="more"></span>  -->
+
+<p><font size="3" color="#5F90A6">平行描写两个苦涩的恋爱故事，<br>饱富抒情性，相互融合的两个恋爱故事。<br>能听到吗？<br>——那真实的旋律……</font></p>
+<table cellspacing="10">
+    <tr>
+        <td rowspan="5" width="150"><img src="/imax/2c964194013003cb52116e2c6760a1224b3cfef6.jpg" width="220"></td>
+        <td><b>Source:</b>&emsp;BDRip 1080 (BDBOX)</td>
+        <td><b>原作:</b>&emsp;minori、鏡遊、御影</td>
+    </tr>
+    <tr>
+        <td><b>Episode:</b>&emsp;TV<font color="dc143c">12</font>(S1)+TV<font color="dc143c">12</font>(S2)+OVA<font color="dc143c">1</font></td>
+<td><b>动画制作:</b>&emsp;<font color="#5F90A6">SHAFT</font></td>
+    </tr>
+    <tr>
+        <td><b>Raw:</b>&emsp;Philosophy</td>
+        <td><b>监督:</b>&emsp;大沼心</td>
+    </tr>
+    <tr>
+        <td><b>Sub:</b>&emsp;华盟&澄空学园</td>
+        <td><b>脚本:</b>&emsp;高山カツヒコ</td>
+    </tr>
+    <tr>
+        <td><b>放送:</b>&emsp;2008年10月6日</td>
+        <td><b>人设:</b>&emsp;七尾奈留、2C＝がろあ、杉山延寛</td>
+    </tr>
+</table>
+<font size="3" color="#CCCCCC">47362fa54af35a18808b37e9a7e81735eb31993c</font>
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>SHAFT</category>
+      </categories>
+      <tags>
+        <tag>游戏改</tag>
+        <tag>催泪</tag>
+        <tag>神作</tag>
+        <tag>致郁</tag>
+        <tag>GAL</tag>
       </tags>
   </entry>
 </search>

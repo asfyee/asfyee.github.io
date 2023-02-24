@@ -36,7 +36,7 @@ main {
 }
 h1 {
   font-size: 2em;
-  margin: 0.07em 0;
+  margin: 0.67em 0;
 }
 hr {
   box-sizing: content-box; /* 1 */
@@ -2360,10 +2360,10 @@ hr {
   display: none;
 }
 .posts-expand .post-block:not(:first-of-type) {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 .posts-expand .post-header {
-  margin-bottom: 10px;
+  margin-bottom: 40px;
 }
 .posts-expand .post-tags a {
   background: var(--content-bg-color);
@@ -2484,7 +2484,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #11d40b;
+  background: #da2fd6;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
