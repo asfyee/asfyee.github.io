@@ -1,67 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>CLANNAD~AfterStory~</title>
-      <link href="/2023/02/22/CLANNAD-AfterStory/"/>
-      <url>/2023/02/22/CLANNAD-AfterStory/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+<search>
+  <entry>
+    <title>CLANNAD~AfterStory~</title>
+    <url>/2023/02/22/CLANNAD-AfterStory/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 京都アニメーション </category>
-          
+        <category>京都アニメーション</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 京阿尼 </tag>
-            
-            <tag> 催泪 </tag>
-            
-            <tag> Key社 </tag>
-            
-            <tag> 神作 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>AIR</title>
-      <link href="/2023/02/22/AIR/"/>
-      <url>/2023/02/22/AIR/</url>
-      
-        <content type="html"><![CDATA[<!-- <span id="more"></span>  --><table cellspacing="10">    <tr>        <td rowspan="5" width="150"><img src="/imax/6ce4e85797b511f9c77734af7360bda53719df7d.jpg" width="220"></td>        <td>Source: BDRip 1080</td>        <td>原作: Key/Visual Art's</td>    </tr>    <tr>        <td>Episode: TV<font color="dc143c">12</font>+<font color="dc143c"></font>1</font>+EX<font color="dc143c">2</font></td><td>动画制作: <font color="5F90A6">京都アニメーション</font></td>    </tr>    <tr>        <td>Raw: ANK</td>        <td>监督: 石原立也</td>    </tr>    <tr>        <td>Sub: FLSnow&漫游自由风</td>        <td>脚本: 志茂文彦</td>    </tr>    <tr>        <td>放送: 2005年1月6日</td>        <td>人设: 樋上いたる、荒谷朋恵</td>    </tr></table><font size="3" color="969696">ec442ccdb5809b04f3357e78991f82ed89a042ec</font>]]></content>
-      
-      
+      <tags>
+        <tag>京阿尼</tag>
+        <tag>催泪</tag>
+        <tag>Key社</tag>
+        <tag>神作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AIR</title>
+    <url>/2023/02/22/AIR/</url>
+    <content><![CDATA[<!-- <span id="more"></span>  -->
+
+<table cellspacing="10">
+    <tr>
+        <td rowspan="5" width="150"><img src="/imax/6ce4e85797b511f9c77734af7360bda53719df7d.jpg" width="220"></td>
+        <td>Source: BDRip 1080</td>
+        <td>原作: Key/Visual Art's</td>
+    </tr>
+    <tr>
+        <td>Episode: TV<font color="dc143c">12</font>+<font color="dc143c"></font>1</font>+EX<font color="dc143c">2</font></td>
+<td>动画制作: <font color="5F90A6">京都アニメーション</font></td>
+    </tr>
+    <tr>
+        <td>Raw: ANK</td>
+        <td>监督: 石原立也</td>
+    </tr>
+    <tr>
+        <td>Sub: FLSnow&漫游自由风</td>
+        <td>脚本: 志茂文彦</td>
+    </tr>
+    <tr>
+        <td>放送: 2005年1月6日</td>
+        <td>人设: 樋上いたる、荒谷朋恵</td>
+    </tr>
+</table>
+<font size="3" color="969696">ec442ccdb5809b04f3357e78991f82ed89a042ec</font>
+
+
+
+
+
+]]></content>
       <categories>
-          
-          <category> 京都アニメーション </category>
-          
+        <category>京都アニメーション</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 京阿尼 </tag>
-            
-            <tag> 催泪 </tag>
-            
-            <tag> Key社 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>京阿尼</tag>
+        <tag>催泪</tag>
+        <tag>Key社</tag>
+      </tags>
+  </entry>
 </search>

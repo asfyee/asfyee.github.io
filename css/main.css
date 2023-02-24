@@ -1802,9 +1802,6 @@ pre code {
 .post-meta-item-icon {
   margin-right: 3px;
 }
-.post-meta-item-text {
-  display: none;
-}
 @media (max-width: 991px) {
   .post-meta-item-text {
     display: none;
@@ -2363,10 +2360,10 @@ hr {
   display: none;
 }
 .posts-expand .post-block:not(:first-of-type) {
-  margin-top: 60px;
+  margin-top: 10px;
 }
 .posts-expand .post-header {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .posts-expand .post-tags a {
   background: var(--content-bg-color);
@@ -2487,7 +2484,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #acff3e;
+  background: #11d40b;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
