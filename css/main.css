@@ -1346,7 +1346,7 @@ pre code {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: 700px;
+  width: 60%;
 }
 @media (max-width: 767px) {
   .footer-inner {
@@ -1355,12 +1355,12 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 800px;
+    width: 58%;
   }
 }
 @media (min-width: 1600px) {
   .footer-inner {
-    width: 900px;
+    width: 58%;
   }
 }
 .use-motion .footer {
@@ -2394,7 +2394,7 @@ hr {
 }
 .header {
   margin: 0 auto;
-  width: 700px;
+  width: 60%;
 }
 @media (max-width: 767px) {
   .header {
@@ -2403,17 +2403,17 @@ hr {
 }
 @media (min-width: 1200px) {
   .header {
-    width: 800px;
+    width: 58%;
   }
 }
 @media (min-width: 1600px) {
   .header {
-    width: 900px;
+    width: 58%;
   }
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 60%;
   padding-bottom: 30px;
 }
 @media (max-width: 767px) {
@@ -2423,12 +2423,12 @@ hr {
 }
 @media (min-width: 1200px) {
   .main-inner {
-    width: 800px;
+    width: 58%;
   }
 }
 @media (min-width: 1600px) {
   .main-inner {
-    width: 900px;
+    width: 58%;
   }
 }
 @media (max-width: 767px) {
@@ -2487,7 +2487,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #3d1f77;
+  background: #74ffe0;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
